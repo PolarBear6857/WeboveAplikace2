@@ -1,13 +1,13 @@
 /* || General setup */
 
 html, body {
-  margin: 0;
+  margin: 0.5%;
   padding: 0;
 }
 
 html {
   font-size: 10px;
-  background-color: #a9a9a9;
+  background-color: gray;
 }
 
 body {
@@ -166,6 +166,10 @@ header {
   border: 2px solid black;
 }
 
+p {
+  font-size: 300%;
+}
+
 #obrazky {
   margin: 2%;
   padding: 2%;
@@ -180,7 +184,6 @@ header {
 
 footer {
   margin-top: 10px;
-
-  padding: 2%;
+  padding: 1%;
   border: 2px solid black;
 }
