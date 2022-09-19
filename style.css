@@ -152,6 +152,10 @@ header {
   margin-right: auto
 }
 
+#divSort {
+  display: inline-block;
+}
+
 footer {
   margin-top: 10px;
 }
