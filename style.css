@@ -133,6 +133,14 @@ aside img {
   max-width: 100%;
 }
 
+.divSort {
+  display: inline-block;
+}
+
+#img1 {
+  margin-left: 20%;
+}
+
 footer {
   margin-top: 10px;
 }
