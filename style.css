@@ -11,7 +11,7 @@ html {
 }
 
 body {
-  width: 90%;
+  width: 100%;
   min-width: 800px;
   margin: 0 auto;
 }
@@ -153,9 +153,34 @@ header {
 }
 
 #divSort {
-  display: inline-block;
+  display: flex;
+}
+
+#h1 {
+  padding-left: 10%;
+}
+
+#welcome {
+  margin: 2%;
+  padding: 2%;
+  border: 2px solid black;
+}
+
+#obrazky {
+  margin: 2%;
+  padding: 2%;
+  width: 600px;
+  border: 2px solid black;
+}
+
+#obrazky img {
+  width: 75%;
+
 }
 
 footer {
   margin-top: 10px;
+
+  padding: 2%;
+  border: 2px solid black;
 }
